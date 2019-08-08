@@ -14,3 +14,4 @@ full_name.class
 
 
 #everything is ruby is an object to get methods, example first_name.methods gives you all of the methods
+#method chaning something.method.method
