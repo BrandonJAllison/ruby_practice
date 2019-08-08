@@ -9,8 +9,8 @@ p greeting
 #setting a variable to hello world
 #define a method to say hello
 def say_hello(thing_to_say)
-    puts thing_to_say
+    puts thing_to_say 
 end
 
 #calling the method
-say_hello("Hello World")
+say_hello "Hello World"
