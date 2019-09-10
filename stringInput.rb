@@ -8,7 +8,7 @@ puts "Your full name is #{full_name}"
 puts "Your name reverse is #{full_name.reverse()}"
 puts "Your name is #{length} characters long"
 
-# puts "Ender a number to multiply by 2"
+# puts "Enter a number to multiply by 2"
 # #get.chomp takes the input
 # input = gets.chomp
 # puts input.to_i * 2;
