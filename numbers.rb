@@ -31,3 +31,12 @@ num_1 = gets.chomp
 puts "Enter second number"
 num_2 = gets.chomp
 puts "The first number multiplies by the second number is #{num_1.to_i * num_2.to_i}"
+
+#comparison operators
+
+# ==, ===
+#.eql? compares types
+# !=
+# <, > 
+# >= <= 
+puts 10 == 9 #false
