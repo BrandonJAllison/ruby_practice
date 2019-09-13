@@ -49,3 +49,5 @@ puts z
 #
 # z = {1..100}.to_a.shuffle
 # z.select {|number| number.odd}
+#
+# Practice rails
